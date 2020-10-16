@@ -1,0 +1,11 @@
+name: Kitpvp
+version: ${project.version}
+main: tijsbeek.nl.kitpvp.Kitpvp
+api-version: 1.16
+authors: [ Tijsdieman ]
+description: A kitpvp plugin
+website: tijsbeek.nl
+commands:
+  kit:
+    description: Get a kit
+    usage: /<command>
